@@ -16,7 +16,7 @@ const int ground = 10;
 // initialize the library by associating any needed LCD interface pin
 // with the arduino pin number it is connected to
 const int rs = 2, en = 4, d4 = 5, d5 = 6, d6 = 7, d7 = 8;
-const int vo = 3;
+const int vo = 3, voValue = 100;
 
 LiquidCrystal lcd(rs, en, d4, d5, d6, d7);
 
@@ -27,7 +27,7 @@ void setup() {
   pinMode(ground, OUTPUT);
   digitalWrite(ground, LOW);
   pinMode(vo, OUTPUT);
-  analogWrite(vo, 100);
+  analogWrite(vo, voValue);
   
   // set up the LCD's number of columns and rows:
   lcd.begin(16, 2);
