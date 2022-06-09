@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: bc061411e01c9f644b903c3cdcf5f55a
+timeCreated: 1502906076
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - PointsText: {instanceID: 0}
+  - Win: {instanceID: 0}
+  - Intro: {instanceID: 0}
+  - Intro1: {instanceID: 0}
+  - OKILooseText: {instanceID: 0}
+  - Player: {instanceID: 0}
+  - OKILooseButton: {instanceID: 0}
+  - coll: {instanceID: 0}
+  - OK: {instanceID: 0}
+  - Clap: {instanceID: 0}
+  - A: {fileID: 2100000, guid: 6d9ade6fd5d86384880ef46009dfcb44, type: 2}
+  - B: {fileID: 2100000, guid: 45c1c61d8fb2b614f8c042ae0e5a3686, type: 2}
+  - C: {fileID: 2100000, guid: c60f3c70e1172284a9cd3bafed47b8ad, type: 2}
+  - D: {fileID: 2100000, guid: 33050d048dbbf5f40b87bc28d487f926, type: 2}
+  - E: {fileID: 2100000, guid: 801764fd14ea3b449bb5a5d2f4042562, type: 2}
+  - F: {fileID: 2100000, guid: cab02252d87a0c34d95b714d4bc68cf3, type: 2}
+  - G: {fileID: 2100000, guid: 1bb091483a173324ba1574ee7fc0f4dd, type: 2}
+  - H: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

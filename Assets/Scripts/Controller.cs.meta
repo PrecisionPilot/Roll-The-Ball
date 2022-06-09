@@ -1,0 +1,46 @@
+fileFormatVersion: 2
+guid: 98bbc1b0aabd96c4e9904c6a23ff9762
+timeCreated: 1502906593
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - SongID: {instanceID: 0}
+  - Player: {instanceID: 0}
+  - Menu: {instanceID: 0}
+  - Win: {instanceID: 0}
+  - inv: {instanceID: 0}
+  - sky: {instanceID: 0}
+  - Mus: {instanceID: 0}
+  - Spr: {instanceID: 0}
+  - firstPersonCamera: {instanceID: 0}
+  - overheadCamera: {instanceID: 0}
+  - ImMz: {instanceID: 0}
+  - ImMz1: {instanceID: 0}
+  - ImMz2: {instanceID: 0}
+  - ImMz3: {instanceID: 0}
+  - D1: {instanceID: 0}
+  - D2: {instanceID: 0}
+  - D3: {instanceID: 0}
+  - D4: {instanceID: 0}
+  - D5: {instanceID: 0}
+  - D6: {instanceID: 0}
+  - F1: {instanceID: 0}
+  - PauseButton: {instanceID: 0}
+  - UnpauseButton: {instanceID: 0}
+  - PausedText: {instanceID: 0}
+  - RageQuit: {instanceID: 0}
+  - ChallBool: {instanceID: 0}
+  - OKButton: {instanceID: 0}
+  - A: {fileID: 2100000, guid: 6d9ade6fd5d86384880ef46009dfcb44, type: 2}
+  - B: {fileID: 2100000, guid: 45c1c61d8fb2b614f8c042ae0e5a3686, type: 2}
+  - C: {fileID: 2100000, guid: c60f3c70e1172284a9cd3bafed47b8ad, type: 2}
+  - D: {fileID: 2100000, guid: 33050d048dbbf5f40b87bc28d487f926, type: 2}
+  - E: {fileID: 2100000, guid: 801764fd14ea3b449bb5a5d2f4042562, type: 2}
+  - F: {fileID: 2100000, guid: cab02252d87a0c34d95b714d4bc68cf3, type: 2}
+  - G: {fileID: 2100000, guid: 1bb091483a173324ba1574ee7fc0f4dd, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

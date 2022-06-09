@@ -1,0 +1,19 @@
+- Added mute button
+- Added a highlighted information display that has CPU and GPU info
+- Added Setting Menu: Fullscreen, Resolution, Frames per second, and Aspect Ratio is now editable in game
+- More effecient FPS calculations
+- More efficient UI scaling: UI doesn't change size due to resolution
+- Better And Effecient mothod of points rotation
+- Added rotation to red loose cubes
+- Clearer text
+- Organized Scoreboard
+- Better torch lighting
+- Pickup blocks now have a cool illuminated effect
+- Every type of block spins in a different direction
+- Better Controlls: now you may use Left Shift to go fast and Keypad 0 or space to go slow
+- Removed Launcher
+- More Better & Effecient Performance
+- Better Graphics
+- Bug Fixes
+- Added Intro
+- Video Camera @ start menu is much more effecient and smooth
